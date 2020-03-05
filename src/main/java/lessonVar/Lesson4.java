@@ -24,9 +24,7 @@ public class Lesson4 {
 
         System.out.println(ANSI_RED + "Sum result: " + sumOfVar + ANSI_RESET);
         System.out.println(ANSI_GREEN+ "Subtraction: " + subtractionOfVar + ANSI_RESET);
-
-
-//        System.out.println("Your data: " + stringIreadFromConsole);
+        
 
     }
 }
