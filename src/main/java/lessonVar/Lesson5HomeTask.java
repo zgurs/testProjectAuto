@@ -23,12 +23,6 @@ public class Lesson5HomeTask {
 
 
     }
-//    //решил вынести парсер строки чтобы не копировать
-//    public  static  Integer parser(String parsedString){
-//        Integer converted = Integer.parseInt(parsedString);
-//        return converted;
-//    }
-
     public static int plus(int firstVarSum, int secondVarSum){
         Integer sumVar = firstVarSum + secondVarSum;
         return sumVar;
@@ -40,7 +34,7 @@ public class Lesson5HomeTask {
     }
 
     public  static  void  display(int sumVar, int subVar, int convertedVar1, int convertedVar2 ){
-        System.out.println("Вы сложили числа " + convertedVar1 + " и "+convertedVar2 + " и получили: " + sumVar);
-        System.out.println("Вы вычли из числа " + convertedVar1 + " число "+convertedVar2 + " и получили: " + subVar);
+        System.out.println(String.format("Вы сложили числа '%s' и '%s' и получили: '%s'", convertedVar1, convertedVar2, sumVar));
+        System.out.println(String.format("Вы вычли из числа '%s' и '%s' и получили: '%s'", convertedVar1, convertedVar2, subVar));
     }
 }

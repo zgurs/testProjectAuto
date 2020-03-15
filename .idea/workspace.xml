@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e35204ad-5abf-47d5-afc9-43e16b69383c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson5HomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lessonVar/lesson5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson6HomeTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lessonVar/Lesson4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson5HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lessonVar/Lesson5HomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessonVar/Lesson5HomeTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lessonVar/Lesson5HomeTask.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,35 +42,35 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Lesson5HomeTask">
-    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessonVar.Lesson3" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessonVar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessonVar.Lesson4" />
-      <module name="testProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessonVar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="Lesson5HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessonVar.Lesson5HomeTask" />
+      <module name="testProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessonVar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessonVar.Lesson6" />
+      <module name="testProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessonVar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson6HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessonVar.Lesson6HomeTask" />
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessonVar.test" />
+      <module name="testProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessonVar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Lesson6HomeTask" />
+        <item itemvalue="Application.Lesson6" />
         <item itemvalue="Application.Lesson5HomeTask" />
         <item itemvalue="Application.lesson5" />
-        <item itemvalue="Application.Lesson4" />
-        <item itemvalue="Application.Lesson3" />
       </list>
     </recent_temporary>
   </component>
@@ -122,34 +136,54 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1583397000221" />
-    <state width="1340" height="198" key="GridCell.Tab.0.bottom" timestamp="1583920242694">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1584293465732">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1342" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583877007362" />
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584293465732" />
     <state width="1340" height="198" key="GridCell.Tab.0.bottom/0.1080.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1583920242694" />
     <state width="1342" height="198" key="GridCell.Tab.0.bottom/0.1080.1536.840/0.0.1920.1050@0.1080.1536.840" timestamp="1583408458067" />
-    <state width="1340" height="198" key="GridCell.Tab.0.center" timestamp="1583920242694">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1584293465732">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1342" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583877007361" />
+    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584293465732" />
     <state width="1340" height="198" key="GridCell.Tab.0.center/0.1080.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1583920242694" />
     <state width="1342" height="198" key="GridCell.Tab.0.center/0.1080.1536.840/0.0.1920.1050@0.1080.1536.840" timestamp="1583408458067" />
-    <state width="1340" height="198" key="GridCell.Tab.0.left" timestamp="1583920242694">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1584293465732">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1342" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583877007361" />
+    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584293465732" />
     <state width="1340" height="198" key="GridCell.Tab.0.left/0.1080.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1583920242694" />
     <state width="1342" height="198" key="GridCell.Tab.0.left/0.1080.1536.840/0.0.1920.1050@0.1080.1536.840" timestamp="1583408458067" />
-    <state width="1340" height="198" key="GridCell.Tab.0.right" timestamp="1583920242694">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1584293465732">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1342" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583877007362" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584293465732" />
     <state width="1340" height="198" key="GridCell.Tab.0.right/0.1080.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1583920242694" />
     <state width="1342" height="198" key="GridCell.Tab.0.right/0.1080.1536.840/0.0.1920.1050@0.1080.1536.840" timestamp="1583408458067" />
+    <state width="1342" height="265" key="GridCell.Tab.1.bottom" timestamp="1584291288147">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584291288147" />
+    <state width="1342" height="265" key="GridCell.Tab.1.center" timestamp="1584291288147">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1584291288147" />
+    <state width="1342" height="265" key="GridCell.Tab.1.left" timestamp="1584291288146">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1584291288146" />
+    <state width="1342" height="265" key="GridCell.Tab.1.right" timestamp="1584291288147">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584291288147" />
     <state x="277" y="60" key="SettingsEditor" timestamp="1583397127479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583397127479" />
+    <state x="502" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1583998903424">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="502" y="362" key="com.intellij.ide.util.TipDialog/0.1080.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1583998903424" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1583745142809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
